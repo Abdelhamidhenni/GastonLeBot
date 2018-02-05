@@ -48,7 +48,7 @@ addressparser@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/addressparser/-/addressparser-1.0.1.tgz#47afbe1a2a9262191db6838e4fd1d39b40821746"
 
-admin-on-rest@^1.3.2:
+admin-on-rest@^1.3.4:
   version "1.3.4"
   resolved "https://registry.yarnpkg.com/admin-on-rest/-/admin-on-rest-1.3.4.tgz#e30e3902041cd6f484d126952b2dd018012ac61f"
   dependencies:
