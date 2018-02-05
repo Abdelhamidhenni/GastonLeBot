@@ -6,8 +6,8 @@
   "mongoDs": {
     "host": "mongo",
     "port": 27017,
-    "url": "mongodb://mongo:27017/loopback-docker-boilerplate",
-    "database": "loopback-docker-boilerplate",
+    "url": "mongodb://gaston:GastonBot@ds125288.mlab.com:25288/gaston",
+    "database": "gaston",
     "password": "",
     "name": "mongoDs",
     "user": "",

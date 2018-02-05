@@ -72,5 +72,25 @@
   "Container": {
     "dataSource": "storage",
     "public": true
+  },
+  "Notes": {
+    "dataSource": "mongoDs",
+    "public": true
+  },
+  "Abs": {
+    "dataSource": "mongoDs",
+    "public": true
+  },
+  "Student": {
+    "dataSource": "mongoDs",
+    "public": true
+  },
+  "Business": {
+    "dataSource": "mongoDs",
+    "public": true
+  },
+  "Order": {
+    "dataSource": "mongoDs",
+    "public": true
   }
 }

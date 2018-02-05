@@ -1,0 +1,29 @@
+{
+  "name": "Order",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "orderedTime": {
+      "type": "date"
+    },
+    "amount": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    },
+    "customerId": {
+      "type": "string"
+    },
+    "businessId": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
