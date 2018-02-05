@@ -19,8 +19,8 @@ A boilerplate for a application using loopback
 
 To get up and running, simply do the following:
 
-    $ git clone https://github.com/minhuyen/loopback-docker-boilerplate.git
-    $ cd loopback-docker-boilerplate
+    $ git clone https://github.com/Abdelhamidhenni/GastonLeBot.git
+    $ cd GastonLeBot
 
     # build docker images
     $ docker-compose build 

@@ -13,7 +13,7 @@ services:
     ports:
       - '3000:3000'
     environment:
-      DATABASE_URL: "mongodb://mongo:27017/loopback-docker-boilerplate"
+      DATABASE_URL: "mongodb://gaston:GastonBot@ds125288.mlab.com:25288/gaston"
     volumes:
       - .:/usr/src/app/
       - /usr/src/app/storage
