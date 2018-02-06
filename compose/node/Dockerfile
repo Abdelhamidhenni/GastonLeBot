@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:6.12.0-onbuild
 
 RUN npm install -g loopback-cli
 
